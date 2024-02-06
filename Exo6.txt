@@ -1,0 +1,119 @@
+1.
+expert SEO : positionner au mieux un site web sur les moteurs de recherche.
+compétences: une connaissance pointue des réseaux sociaux, de Google Analytics, des règles de référencement.
+Adaptable et réactif.
+Expert SEO :
+est chargé d'optimiser la visibilité et la notoriété d'un site pour en augmenter l'audience.
+
+
+communité manager: Garant de la présence et de la bonne réputation d'une marque ou d'une entreprise sur les réseaux sociaux
+compétences: Animation et gestion des réseaux sociaux. Maîtrise des médias de communication.
+Aimer communiquer, J'ai le sens du contact
+Community Manager :
+est le porte-parole d'une marque ou d'une entreprise sur Internet.
+
+
+Testeur: Le testeur est le spécialiste de la chasse aux bugs, ces erreurs qui empêchent le bon fonctionnement d'un logiciel.
+compétences: Détecter les anomalies, Établir un plan de tests, Veiller aux corrections
+Testeur :
+Fait passer des tests spécifiques
+
+
+QA Manager ou responsable de tests: A ne pas confondre avec les personnes en charge des tests, qui elles rédigent les scénarios de 
+tests et les exécutent. Le ou la QA Manager encadre, forme et accompagne les testeurs et testeuses tout en mettant 
+en place les outils sur lesquels vont travailler les équipes de test
+compétences: Connaissance des normes et réglementation en vigueur  
+Connaissance des techniques de pilotage de projets 
+Maitrise des méthodes qualité : planification, système documentaire, résolution de problèmes 
+Connaissance en analyse statistiques 
+QAManager :
+teste les réalisations de ses camarades et améliore le produit fini. 
+
+
+Data Analyst : Le Data Analyst est aussi connu sous l’appellation de Data Manager, d’Analyste des Données ou de Data Miner. 
+Comme son nom le suggère, il est en charge du recueil et de l’analyse des données de l’entreprise. 
+Ce sont des données qui peuvent être liées aussi bien aux clients (CRM) qu’aux produits et leurs performances,et même aux concurrents
+
+
+Chef de projet :
+responsable du cadrage et de la prévision des moyens humains, techniques et financiers à mettre en place, en lien avec l'équipe.
+
+Product Owner :
+sert d'interface entre l'équipe technique, l'équipe marketing et les clients. Gère plus les demandes clients.
+
+UI Designer :
+créer une interface agréable et pratique, facile à prendre en main.
+
+Graphiste :
+concevoir un visuel, alliant sens artistique aux enjeux commerciaux et marketing, qui saura séduire le public.
+
+Data analyst :
+chargé de l'exploitation des informations recueillies par le biais de différents canaux afin de faciliter les prises de décision au niveau des dirigeants.
+
+Rédacteur Web :
+produit des contenus pour Internet.
+
+Scrum Master :
+chef d'orchestre des équipes techniques pour faire aboutir les projets informatiques. 
+
+Lead Tech :
+à la fois manager, développeur et chef de projet.
+Encadrer et accompagner des équipes de développeurs afin de mener à bien les projets web de l'entreprise qui leur sont confiés.
+
+Dev :
+Expert des langages informatiques, le développeur informatique traduit la demande d'un client en lignes de code informatique.
+
+
+
+2 .
+Front End :
+Developpeur frontend: 10 fonctionnalitées: 
+Pouvoir avoir une interface fonctionnelle
+Affichage des différentes données créer dans le back.
+Pouvoir naviguer sur le site sans bugs
+Pouvoir changer le design de l'interface en fonction des gouts de l'utilisateur
+Pouvoir imbriquer les différentes parties de l'applications de manière harmonieuse
+Pouvoir avoir un mode jour/nuit
+Pouvoir réduire la Navbar verticale
+Rechercher d'autres membres en fonction de leur email, ou de leur nom d'utilisateur
+Pouvoir résoudres des problèmes en fonction des critères choisi par l'utilisateur
+Gere les moyens de paiement
+
+
+
+
+
+
+Back End :
+10 fonctionnalités :
+Gérer les EndPoints pour :
+- l'enregistrement et l'affichage des coups lors des parties asynchrones
+- l'enregistrement et l'affichage des scores
+- l'enregistrement et l'affichage des pseudos
+- l'enregistrement et l'affichage des commentaires
+- Assurer les enregistrement de nouveaux joueurs.ses
+- Vérifier les login
+Faire le liens avec la base de données
+Chiffrer les données sensibles
+Gérer la logique de l'IA
+Gérer le changement de Langue du site
+
+
+
+
+3 .
+1x Marketing
+1x Product Owner
+1x Scrum
+1x Lead Dev
+    Dev :
+2x Front
+3x back
+1x Devops
+
+
+= 10 personnes
+
+
+
+
